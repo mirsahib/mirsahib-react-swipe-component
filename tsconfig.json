@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "moduleResolution": "node",
-    "module":"es2015",
+    "module":"commonjs",
     "target": "es5",
-    "lib": ["es5", "es6", "es7", "dom"],
+    "lib": ["es5", "dom"],
     "strict": true,
     "declaration": true,
     "allowSyntheticDefaultImports": true,

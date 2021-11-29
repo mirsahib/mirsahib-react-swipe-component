@@ -1,21 +1,12 @@
 # react-swipe-component
 
-
-[![Download Count](https://img.shields.io/npm/dt/react-swipe-component.svg?style=flat-square)](http://www.npmjs.com/package/react-swipe-component)
-
-
-[![Demo image](https://s3.eu-central-1.amazonaws.com/serhiy/Github_repo/react-swipe-component.png)](https://exelban.github.io/react-swipe-component)
-
-Swipe bindings for react.
-[Demo](https://exelban.github.io/react-swipe-component/)
-
 ## Install
 ```sh
-yarn add react-swipe-component
+yarn add mirsahib-react-swipe-component
 ```  
 Or with npm:  
 ```sh
-npm install react-swipe-component --save
+npm install mirsahib-react-swipe-component --save
 ```
 
 ## Usage
@@ -137,7 +128,7 @@ interface Position {
 ## Developing
 ### Library
 ```sh
-git clone git@github.com:exelban/react-swipe-component.git
+git clone https://github.com/mirsahib/mirsahib-react-swipe-component.git
 cd react-swipe-component
 yarn install
 yarn build
@@ -180,5 +171,3 @@ yarn dev
     - started using webpack to compile to ES5
     - updated dependency
 
-## License
-[Apache License 2.0](https://github.com/exelban/react-swipe-component/blob/master/LICENSE.md)
