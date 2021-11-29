@@ -23,16 +23,16 @@
     "typescript"
   ],
   "author": {
-    "name": "Serhiy Mytrovtsiy",
-    "email": "mitrovtsiy@ukr.net"
+    "name": "Mir Sahib",
+    "email": "mirsahib24@gmail.com"
   },
-  "homepage": "https://github.com/exelban/react-swipe-component",
+  "homepage": "https://github.com/mirsahib/mirsahib-react-swipe-component.git",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exelban/react-swipe-component.git"
+    "url": "git+https://github.com/mirsahib/mirsahib-react-swipe-component.git"
   },
   "bugs": {
-    "url": "https://github.com/exelban/react-swipe-component/issues"
+    "url": "https://github.com/mirsahib/mirsahib-react-swipe-component.git/issues"
   },
   "license": "Apache-2.0",
   "devDependencies": {
