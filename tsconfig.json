@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "moduleResolution": "node",
-    "module":"commonjs",
-    "target": "ESNEXT",
+    "module":"es2015",
+    "target": "es5",
     "lib": ["es5", "dom"],
     "strict": true,
     "declaration": true,
